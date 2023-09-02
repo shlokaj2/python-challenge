@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------
+ total number of months is : 86
+net total amount is : $22564198
+average change is -8311.105882352942
+greatest increase in profit : 16-Aug 1862002
+greates decrease in profit : 14-Feb -1825558
